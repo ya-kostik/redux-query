@@ -1,0 +1,24 @@
+{
+  "name": "redux-query",
+  "version": "0.1.0",
+  "description": "Query action types to control your awesome reducers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya-kostik/redux-query.git"
+  },
+  "keywords": [
+    "redux",
+    "query",
+    "reducer"
+  ],
+  "author": "Constantin Tsukanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ya-kostik/redux-query/issues"
+  },
+  "homepage": "https://github.com/ya-kostik/redux-query#readme"
+}
