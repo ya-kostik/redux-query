@@ -6,9 +6,6 @@
 Redux query make for control your redux data flow.
 
 ## Install
-```
-npm i redux-query
-```
 When action type starts from @@query, special reducer try to process it,
 and apply only one, special for that query reducer.
 
